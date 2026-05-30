@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedalculate",
+        "uuid": 11377764,
+        "checksum": "3jkyhr"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
